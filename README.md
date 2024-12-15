@@ -76,10 +76,8 @@
 # 
 # 📸 Screenshots:
 # Here are some screenshots showing the chat history stored in MongoDB:
-# - **Screenshot 1**: [cmd_chat_history](https://github.com/amitkumardemo/Gen_AI_Assgn_1_IV_SEM/blob/main/cmd_chat_history)
-# - **Screenshot 2**: [vscode_output_history]()
-# - **Screenshot 2**: [vscode_output_history](https://github.com/amitkumardemo/Gen_AI_Assgn_1_IV_SEM/blob/main/vs_code_output_history)
-# 
+# - **Screenshot 1**: [cmd_chat_history](cmd_chat_history)
+# - **Screenshot 2**: [vscode_output_history](vs_code_output_history)
 # 🔧 Retrieving and Viewing Chat History Using CMD:
 # To retrieve and view the chat history using the command line, follow these steps:
 # 
